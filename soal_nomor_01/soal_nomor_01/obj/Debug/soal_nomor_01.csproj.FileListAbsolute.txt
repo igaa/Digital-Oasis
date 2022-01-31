@@ -1,0 +1,7 @@
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\bin\Debug\soal_nomor_01.exe.config
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\bin\Debug\soal_nomor_01.exe
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\bin\Debug\soal_nomor_01.pdb
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\obj\Debug\soal_nomor_01.csprojAssemblyReference.cache
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\obj\Debug\soal_nomor_01.csproj.CoreCompileInputs.cache
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\obj\Debug\soal_nomor_01.exe
+C:\Temp\Oasis\soal_nomor_01\soal_nomor_01\obj\Debug\soal_nomor_01.pdb

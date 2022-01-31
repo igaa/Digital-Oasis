@@ -1,0 +1,7 @@
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\bin\Debug\soal_nomor_03.exe.config
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\bin\Debug\soal_nomor_03.exe
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\bin\Debug\soal_nomor_03.pdb
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\obj\Debug\soal_nomor_03.csprojAssemblyReference.cache
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\obj\Debug\soal_nomor_03.csproj.CoreCompileInputs.cache
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\obj\Debug\soal_nomor_03.exe
+C:\Temp\Digital Oasis\soal_nomor_03\soal_nomor_03\soal_nomor_03\obj\Debug\soal_nomor_03.pdb
